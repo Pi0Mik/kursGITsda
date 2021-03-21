@@ -1,1 +1,2 @@
 Nowa wersja tego pliku.
+Dodanie nowej eksperymentalnej funkcjonalnosci do tego pliku
